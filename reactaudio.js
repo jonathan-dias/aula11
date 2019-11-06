@@ -1,3 +1,2 @@
 ReactDOM.render( <
-        p > Hello <
-        /p>, document.getElementById('root'));
+        p > Hello < /p>, document.getElementById('root'));
